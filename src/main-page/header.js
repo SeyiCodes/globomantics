@@ -1,4 +1,4 @@
-import logo from './Globomantics.png';
+import logo from './GloboLogo.png';
 
 const Header = () => (
     <Header className="row">
@@ -8,9 +8,7 @@ const Header = () => (
         <div className="col-md-7 mt-5 subtitle">
             Providing housing for the world
         </div>
-
-
-
-
     </Header>
 );
+
+export default Header;

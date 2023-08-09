@@ -17,7 +17,6 @@ function App() {
         >
           His webpage
         </a>
-        <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
   );
